@@ -1,0 +1,10 @@
+Add rule to JRE 7
+Accesible:
+com/sun/net/httpserver/**
+
+Create folder C:/FantasyUrf
+Add file called config
+Add line base="%path%"
+where path is the path to your workspace project for fantasy urf
+
+That should be enough
