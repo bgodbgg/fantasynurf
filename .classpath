@@ -6,5 +6,7 @@
 			<accessrule kind="accessible" pattern="com/sun/net/httpserver/**"/>
 		</accessrules>
 	</classpathentry>
+	<classpathentry kind="lib" path="libs/java-json.jar"/>
+	<classpathentry kind="lib" path="libs/orianna-2.2.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
